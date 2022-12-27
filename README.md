@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=hi%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=hi%20i'm donny&fontSize=90)
 
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
 </br>
