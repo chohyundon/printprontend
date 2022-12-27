@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=hello%20my world&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=hello%20my%20 world&fontSize=90)
 
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
 </br>
